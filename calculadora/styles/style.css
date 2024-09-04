@@ -48,3 +48,6 @@ h1{
 .duplo{
     grid-column: span 2;
 }
+.rodape{
+    background-color: aliceblue;
+}
